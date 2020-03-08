@@ -10,4 +10,4 @@ end
 
 def seconds
   return self
-end 
+end
