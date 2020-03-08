@@ -7,7 +7,3 @@ def countdown_with_sleep(x)
   sleep 5.seconds
   return "HAPPY NEW YEAR!"
 end
-
-def seconds
-  return self
-end
