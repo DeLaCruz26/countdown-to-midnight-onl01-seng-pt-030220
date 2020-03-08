@@ -1,4 +1,4 @@
-def countdown_with_sleep(1)
+def countdown_with_sleep(5)
   while x > 0
     puts "#{x} SENCOND(S)!"
     sleep(1)
