@@ -3,7 +3,7 @@ def countdown_with_sleep(x)
   until x < 10
     puts "#{x} SENCOND(S)!"
     x -= 1
-    sleep 1
+    sleep 5
   end
 
   return "HAPPY NEW YEAR!"
